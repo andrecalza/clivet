@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\André Calza\Desktop\Compilado" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="04/14/2013 19:39:24" />
+    <file relUrl="Site.Master" publishTime="04/14/2013 19:16:28" />
+    <file relUrl="Account/Web.config" publishTime="04/14/2013 16:57:36" />
+    <file relUrl="Account/Register.aspx" publishTime="04/14/2013 16:57:36" />
+    <file relUrl="bin/CLIVET.pdb" publishTime="04/14/2013 19:38:55" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="04/14/2013 16:57:36" />
+    <file relUrl="Account/Login.aspx" publishTime="04/14/2013 16:57:36" />
+    <file relUrl="bin/CLIVET.xml" publishTime="04/14/2013 19:38:55" />
+    <file relUrl="Proprietario.aspx" publishTime="04/14/2013 19:08:52" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="04/14/2013 16:57:35" />
+    <file relUrl="CadastroProprietario.aspx" publishTime="04/14/2013 19:10:52" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="04/14/2013 16:57:37" />
+    <file relUrl="bin/CLIVET.dll" publishTime="04/14/2013 19:38:55" />
+    <file relUrl="Clientes.aspx" publishTime="04/14/2013 18:54:30" />
+    <file relUrl="Global.asax" publishTime="04/14/2013 16:57:37" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="04/14/2013 16:57:37" />
+    <file relUrl="About.aspx" publishTime="04/14/2013 16:57:37" />
+    <file relUrl="CadastroClientes.aspx" publishTime="04/14/2013 18:50:07" />
+    <file relUrl="Default.aspx" publishTime="04/14/2013 17:34:56" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="04/14/2013 16:57:37" />
+    <file relUrl="Styles/Site.css" publishTime="04/14/2013 17:41:15" />
+  </publishProfile>
+</publishData>
